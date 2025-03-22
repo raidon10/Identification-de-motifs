@@ -53,4 +53,4 @@ Suivez les instructions pour entrer un motif et observer la génération des sé
 - Ajout d'une interface graphique pour une meilleure visualisation.
 
 ## Conclusion
-Ce projet illustre l'application de l'inférence probabiliste dans un cadre de reconnaissance de motifs ADN. Une meilleure compréhension d'Infer.NET, couplée à l'utilisation d'assistants IA comme ChatGPT, permet d'explorer efficacement ce domaine. 🚀
+Ce projet illustre l'application de l'inférence probabiliste dans un cadre de reconnaissance de motifs ADN. Une meilleure compréhension d'Infer.NET, couplée à l'utilisation d'assistants IA comme ChatGPT, permet d'explorer efficacement ce domaine.
